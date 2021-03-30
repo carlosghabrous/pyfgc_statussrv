@@ -1,0 +1,1 @@
+from .pyfgc_statussrv import get_status_device, get_status_all

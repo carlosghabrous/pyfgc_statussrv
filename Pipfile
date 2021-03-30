@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"ecdf405" = {path = "./../pyfgc_rbac"}
+"43a1930" = {path = "./../pyfgc_const"}
+"26ecf55" = {path = "./../pyfgc_name"}
+"be0eaf8" = {path = "./../pyfgc"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
